@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: o;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+
+background-color: #F0FFF0;
+}
+
+.nav-item{
+    margin-right: 10px;
+ 
+}
+
+.btn-singin{
+    
+background-color: #21B573;
+    
+color: white;
+    
+border-radius: 25px;
+    
+box-shadow: 0px 1px 10px 0px #000;
+transition: .7s all ease-in-out;
+}
+.btn-singin:hover{
+ background-color:#27a344   
+}
+header{background-color: #F0FFF0;padding: 15px 0px;}
+.banner_height{
+    min-height: 70vh;
+    align-items: center;
+}
+
+.banner_content{
+align-items: center;
+}
+.banner_content h5{
+color: #FD511A;
+font-size: 16px;
+line-height: 24px;
+} 
+.banner_content h1{
+font-size: 48px;
+line-height: 70px;
+text-transform: capitalize;
+} 
+.banner_content h1 span{
+color: #21B573;
+}
+.banner_content p{
+font-size: 16px;
+line-height: 36px;
+}
+.btn-singi{
+text-transform: capitalize;
+background-color: #21B573;
+color: white;
+border-radius: 20px;
+box-shadow: 0px 1px 10px 0px #000;
+padding: 7px 20px 7px 20px;
+transition: .7s all ease-in-out;
+}
+.btn-singi:hover{
+ background-color:#27a344   
+}
+.icon{
+
+}
+.icon_content{
+
+background: #F8FFFB;
+
+text-align: center;
+
+
+transition: .7s all ease-in-out;
+}
+.icon_content:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px 0px #0000001A;
+    border-radius: 10px;
+}
+.icon_content img{
+    
+width: 70px;
+}
+.icon_content h3{
+    
+font-size: 24px;
+    
+line-height: 36px;
+margin-top: 15px;
+}
+.icon_content h5{
+    
+}
+.book img{
+    width: 59px;
+}
+.courses{
+
+}
+.courses_section{
+
+}
+.courses_part{
+
+box-shadow: 0px 10px 40px 0px #0000001A;
+
+padding: 15px;
+}
+.courses_part img{
+
+}
+.courses_part h3{
+
+font-size: 24px;
+
+line-height: 36px;
+
+margin-top: 40px;
+}
+.courses_part h5{
+
+margin-bottom: 20px;
+}
+.courses_part ul{
+
+margin: 0;
+
+display: flex;
+
+justify-content: space-between;
+
+padding: 0;
+}
+.courses_part ul li{
+
+list-style: none;
+
+margin-top: 20px;
+}
+.courses_part ul li i{
+
+margin-right: 10px;
+}
+.courses_heading{
+
+}
+.courses_heading h1{
+    text-align: center;
+    font-size: 36px;
+    line-height: 100px;
+    text-transform: capitalize;
+}
+.teacher img{
+    width: 100px;
+} 
+.testimonial{
+
+}
+
+.teacher{
+
+width: 50%;
+
+margin-left: auto;
+}
+.teacher img{
+
+}
+.madam{
+
+}
+.madam p{
+
+font-size: 16px;
+
+line-height: 30px;
+}
+footer{
+    background: #282531;
+    color: #fff;
+}
+footer p{
+
+/* text-align: center; */
+
+font-size: 16px;
+
+line-height: 30px;
+}
+footer ul{
+
+text-transform: capitalize;
+
+list-style: none;
+
+font-size: 18px;
+
+line-height: 30px;
+}
+footer ul li{
+
+}
+footer ul li:first-child{
+    font-weight: 600;
+}
+footer h5{
+    
+padding: 5px;
+    
+font-size: 16px;
+    
+text-align: center;
+    
+margin-bottom: 0px;
+}
